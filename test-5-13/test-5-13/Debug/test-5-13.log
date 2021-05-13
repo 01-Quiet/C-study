@@ -1,0 +1,5 @@
+﻿  001.c
+D:\ProgramData\存档\test-5-13\test-5-13\001.c(9,1): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\ProgramData\存档\test-5-13\test-5-13\001.c(10,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\ProgramData\存档\test-5-13\test-5-13\001.c(11,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  test-5-13.vcxproj -> D:\ProgramData\存档\test-5-13\Debug\test-5-13.exe
